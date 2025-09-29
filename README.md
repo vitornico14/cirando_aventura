@@ -1,2 +1,2 @@
-# cirando_aventura
+# criando_aventura
 Programacao feita nas aula de pensamento computacional
